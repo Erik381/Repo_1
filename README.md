@@ -1,3 +1,3 @@
 # Das ist mein erstes Repository
 
-Das ist eine Änderung aus GitHub
+Das ist eine Änderung aus Git
